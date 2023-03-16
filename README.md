@@ -13,6 +13,7 @@ Tiene algunos elementos por ser depurados:
   - Agregar un control mediante WiFi o BT.
   - Optimizar Codigo
   - Subir diagrama de conectores para motor mono/trifásico
+  - Implementar inversion de giro para motor trifásico
   
   
   
